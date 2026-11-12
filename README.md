@@ -10,9 +10,13 @@
 
 ## About
 
+<img align="right" width="280" src="https://media1.tenor.com/m/Fgcd1okgyxgAAAAC/floppa-floppa-cat.gif" alt="Floppa cat GIF" />
+
 Frontend / web developer. I like building small, useful things that run in the browser — mostly Chrome extensions, sometimes web apps, and the occasional bug hunt in other people's extension code.
 
 Right now I'm learning the modern frontend stack (React / TypeScript) and fixing bugs wherever I can find them.
+
+<br clear="right"/>
 
 ## Projects
 
